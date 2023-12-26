@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/teaching-1
 venue: "School of Engineering and Technology, Central Michigan University"
-# date:
+date: 2018-01-01
 location: "Mount Pleasant, Michigan"
 ---
 
