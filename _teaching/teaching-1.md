@@ -1,8 +1,10 @@
 ---
 title: "Teaching Assistant experience"
 collection: teaching
+type: ""
 permalink: /teaching/teaching-1
 venue: "School of Engineering and Technology, Central Michigan University"
+date:
 location: "Mount Pleasant, Michigan"
 ---
 
