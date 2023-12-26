@@ -12,4 +12,4 @@ The advent of Internet of Things (IoT) has brought about a new horizon in the fi
 
 In this talk, I explain how heterogeneous sensor modules can be implemented and deployed. These modules are battery powered, small portable packages that acquire environmental data from various sensors and publish the information to several IoT cloud platforms for analysis and visualization.
 
-<embed src="{{ site.baseurl }}/files/Lab-in-a-box_Graphic.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/Lab-in-a-box_Graphic.pdf" width="600" height="800" type='application/pdf'>
