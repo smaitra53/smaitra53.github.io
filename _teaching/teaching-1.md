@@ -1,7 +1,7 @@
 ---
-title: "Teaching Assistant experience"
+title: "Experience as a TA"
 collection: teaching
-type: ""
+type: "Courses"
 permalink: /teaching/teaching-1
 venue: "School of Engineering and Technology, Central Michigan University"
 date: 2018-01-01
